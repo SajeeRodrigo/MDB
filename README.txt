@@ -13,7 +13,8 @@ HTML5 Semantic Tags
 <header></header>
 <nav><nav>
 <section></section>
-<article></aside>
+<article></article>
+<aside></aside>
 <footer></footer>
 <details></details>
 <summary></summary>
